@@ -14,3 +14,9 @@ Directions:
 6. If snake is already moving up it won't go down. ↕🚫
 7. If snake collides with wall or its own tail, it will be game over. 🤦‍♀️😢
 8. If snake eats the food it will grow in length and difficulty level will increase. 😉🏆🥇
+
+
+About:
+
+1. Code was written in Python using Turtle Graphics. 🐍🐢
+2. Attempt to re-create the classic Nokia snake game. 😅
