@@ -1,6 +1,6 @@
 # SnakeGame
 
-Go back to your childhood days, when you played Snake game in your Father's NOKIA phone.
+Go back to your childhood days, when you played Snake game in your old NOKIA phone.
 
 #Instructions:
 
